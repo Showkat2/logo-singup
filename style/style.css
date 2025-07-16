@@ -100,3 +100,83 @@ nav{
     margin-top: 30px;
     color: #555;
 }
+.section-title{
+    font-weight: bold;
+    font-size: 42px;
+    color: #252432;
+    text-align: center;
+}
+.skills{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 40px;
+}
+.review{
+    background-color: rgb(242, 238, 238);
+    padding: 20px;
+    width: 366px;
+    height: 244px;
+    border-radius: 20px;
+}
+.st-1{
+    margin-right: 3px;
+}
+.review h3{
+    color: #1E1E1E;
+    width: 221px;
+    height: 29px;
+    font-size: 20px
+}
+.review p{
+    font-size: 15px;
+    color: #1E1E1E;
+    width: 318px;
+    height: 44px;
+}
+.rev-2{
+    display: flex;
+    gap: 12px;
+    color: #757575;
+}
+.zero{
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    margin-right: 10px;
+}
+span{
+    color: #B3B3B3;
+}
+/* hero seaction */
+.hero{
+    text-align: center;
+    padding: 80px 20px;
+    background-color: #fff;
+    margin: 150px 71px;
+    width: px;
+    height: px;
+}
+.hero h1{
+    font-weight: bold;
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #000000;
+}
+.hero p{
+    color: #4D3B3B;
+}
+button{
+    display: inline-block;
+    background-color: rgb(63, 63, 255);
+    color: white;
+    padding: 14px 28px;
+    border-radius: 8px;
+    border-style: none;
+    font-weight: bold;
+    margin-bottom: 20px;
+
+}
+.wc{
+    border-radius: 40px;
+}
